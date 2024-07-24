@@ -19,7 +19,7 @@ Colorful console output using Chalk
 # How to Use
 Run the main function to start the program. You'll be presented with a menu of options to manage the university system. Navigate through the options to add, view, or modify data as needed.<br>
 
-#Technologies Used
+# Technologies Used
 TypeScript<br>
 Node.js<br>
 Inquirer.js for interactive prompts<br>
